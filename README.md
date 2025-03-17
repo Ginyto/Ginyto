@@ -9,7 +9,7 @@ I'm an engineer specialized in **Fullstack Development**, **XR (VR/AR/MR)**, and
 ### 🔥 About Me
 - 🎓 **Engineering Degree in Imaging & Immersive Realities** from EFREI Paris
 - 🕹️ **Game & XR Developer** (Unity, Unreal Engine, Gameplay Programming, Netcode)
-- 🌐 **Fullstack Web Developer** (TypeScript, NestJS, React, Node.js, .NET, SQL)
+- 🌐 **Fullstack Web Developer** (TypeScript, NestJS,Vue JS, Angular, React, Node.js, .NET, SQL)
 - 🎯 **Passionate about optimization, interactive experiences, and metaverse technologies**
 - 🚀 **Experience with Ubisoft, Meta, and various XR & Web projects**
 
