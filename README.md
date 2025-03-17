@@ -49,6 +49,6 @@ I'm an engineer specialized in **Fullstack Development**, **XR (VR/AR/MR)**, and
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianlucca-annichiarico)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/gianlucca-annichiarico](https://www.linkedin.com/in/gianlucca-annichiarico-0205a5160/))
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gintyo)
 ✉️ **agianlucca@icloud.com**
