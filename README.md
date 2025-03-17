@@ -42,8 +42,7 @@ I'm an engineer specialized in **Fullstack Development**, **XR (VR/AR/MR)**, and
 
 - **[Owl Invaders](https://github.com/Ginyto/Owl-Invaders)** - Multiplayer AR Mobile Game (Unity, ARKit, Netcode)
 - **[HealFear](https://github.com/Gintyo/healfear)** - VR Horror Game (Unity, Oculus SDK, C#)
-- **[Pizzeria VR](https://github.com/Gintyo/pizzeria-vr)** - Ultra-realistic VR restaurant simulation
-- **[Alonso Garces Gallery](https://github.com/Gintyo/gallery-xr)** - Fullstack Web + XR Virtual Gallery (Vue.js, Node.js, Unity)
+- **[Pizzeria VR](https://github.com/Gintyo/MozzaPlaza)** - Realistic VR restaurant simulation
 
 ---
 
