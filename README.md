@@ -2,7 +2,7 @@
 
 🚀 **Fullstack & XR Developer | Software Engineer | Game Developer**
 
-I'm an engineer specialized in **Fullstack Development**, **XR (VR/AR/MR)**, and **Game Development**. Passionate about creating immersive experiences, I work with technologies like **Unity, Unreal Engine, C#, TypeScript, NestJS, React, and more**.
+I'm an engineer specialized in **Fullstack Development**, **XR (VR/AR/MR)**, and **Game Development**. Passionate about creating immersive experiences, I work with technologies like **Unity, Unreal Engine, C#, TypeScript, NestJS, Vue JS, Angular, React, and more**.
 
 ---
 
